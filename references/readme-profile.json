@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 290｜Old Picture-book Sign: keeps the photo and turns its subject into one small faux-naive folk sign from an old picture book — simplified, slightly lopsided forms with exaggerated proportions and irregular edges, drawn in uneven, trembling hand-drawn outlines with only a few flat fills, slight colour bleed, ink drop-out and print misregistration on fibrous paper — in a warm retro palette of faded orange, washed blue, olive green, warm off-white, ink black and soft red from the photo, small, centred, offset or partly cropped in extreme whitespace with a lonely, intimate mood, with a tiny irregularly set word like a collection number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-290 or asks for a faux-naive folk icon, retro picture-book sign or wobbly-outline handmade logo from a photo.",
+  "short_description": "旧绘本符：把照片主体收成旧绘本里一枚抖动轮廓、褪色平涂的民间小符号",
+  "zh-CN": {
+    "name": "旧绘本符",
+    "tagline": "把照片主体收成旧绘本里一枚轮廓发抖、颜色褪旧的民间小符号。",
+    "look": "原照片保留；主体被简化成比例略失衡、边缘不规则的小形体，像童年玩具或旧绘本里的民间图腾。轮廓线粗细不均、微微发抖，色块只是少量平涂，带轻微渗色、掉墨和套印偏差，纸面有彩铅、蜡笔和干水粉的颗粒与纤维。颜色是褪色的旧橙、洗过的蓝、橄榄绿、暖米白、墨黑和柔和红。符号很小，可以居中、偏移或被画面边缘裁掉一部分，大片留白带出一点孤独和亲密，旁边几个排得略不整齐的小字像收藏编号。",
+    "traits": [
+      "民间图腾",
+      "抖动轮廓",
+      "旧印刷",
+      "褪色色盘",
+      "小尺度符号"
+    ],
+    "good": [
+      "带一点老旧或怀旧感的主体：一只木马、一辆老自行车、一个铁皮水壶",
+      "可以夸张比例的动物或人物：长腿的鹭、圆滚滚的小孩、驮着东西的驴",
+      "想做成复古包装、旧书风标签或私人收藏符号的照片"
+    ],
+    "poor": [
+      "需要干净精准线条的用途：企业标志、产品示意、技术图",
+      "想要鲜亮、荧光或糖果色的需求，这里的颜色是褪旧的",
+      "想要完整插画、标准吉祥物、卡通 IP 或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Old Picture-book Sign",
+    "tagline": "Turns the subject of your photo into one small old picture-book folk sign with trembling lines and faded colour.",
+    "look": "Your photo stays; the subject is simplified into a small, slightly lopsided form with irregular edges, like a childhood toy or a folk totem in an old picture book. Outlines are uneven and faintly trembling, with only a few flat fills, slight colour bleed, ink drop-out and misregistration, and the paper carries the grain and fibres of coloured pencil, wax pastel and dry gouache. Colours are faded orange, washed blue, olive green, warm off-white, ink black and soft red. The sign is tiny and may sit centred, offset or partly cropped by the edge, and the wide empty space leaves a lonely, intimate feel, with a few slightly uneven small words like a collection number.",
+    "traits": [
+      "Folk totem",
+      "Trembling outline",
+      "Old print",
+      "Faded palette",
+      "Small-scale symbol"
+    ],
+    "good": [
+      "Subjects with an old or nostalgic air: a rocking horse, an old bicycle, a tin kettle",
+      "Animals or people whose proportions can be exaggerated: a long-legged heron, a round little child, a donkey carrying a load",
+      "Photos you want as retro packaging, an old-book style label or a private collection symbol"
+    ],
+    "poor": [
+      "Uses that need clean, precise lines: corporate logos, product diagrams, technical drawings",
+      "Wanting bright, fluorescent or candy colours, since the palette is faded",
+      "Requests for a full illustration, a standard mascot, a cartoon character or 3D"
+    ]
+  },
+  "ja": {
+    "name": "古い絵本のしるし",
+    "tagline": "写真の主役を、古い絵本に出てくるような、線が震え色の褪せた民間の小さな記号にします。",
+    "look": "元の写真は残し、主役を比率が少しずれ、縁の不揃いな小さな形に簡略化して、子どもの頃のおもちゃや古い絵本の民間のトーテムのようにします。輪郭線は太さが不揃いでかすかに震え、色面はわずかな平塗りだけで、軽いにじみ、かすれ、版ずれがあり、紙には色鉛筆、クレヨン、乾いたガッシュの粒と繊維が残ります。色は褪せたオレンジ、洗いざらしの青、オリーブグリーン、温かな生成り、墨黒、柔らかな赤です。記号はとても小さく、中央、ずらした位置、画面の端で一部切れた位置などに置かれ、広い余白が少しの孤独と親密さを残し、少し不揃いに並んだ小さな文字がコレクション番号のように添えられます。",
+    "traits": [
+      "民間のトーテム",
+      "震える輪郭",
+      "古い印刷",
+      "褪せた色",
+      "小さな記号"
+    ],
+    "good": [
+      "古さや懐かしさのある主役：木馬、古い自転車、ブリキのやかん",
+      "比率を誇張できる動物や人：脚の長いサギ、まるまるとした子ども、荷を背負ったロバ",
+      "レトロなパッケージ、古書風のラベル、個人コレクションの記号にしたい写真"
+    ],
+    "poor": [
+      "きれいで正確な線が必要な用途：企業ロゴ、製品の図解、技術図面",
+      "明るい色、蛍光色、キャンディーカラーを求める場合（色は褪せた調子です）",
+      "完成したイラスト、定番のマスコット、キャラクター、3Dを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "옛 그림책 부호",
+    "tagline": "사진 속 주인공을 옛 그림책에 나올 법한, 선이 떨리고 색이 바랜 민간 작은 부호로 만듭니다.",
+    "look": "원본 사진은 남기고, 주인공을 비례가 살짝 어긋나고 가장자리가 고르지 않은 작은 형태로 단순화해 어린 시절 장난감이나 옛 그림책 속 민간 토템처럼 만듭니다. 윤곽선은 굵기가 고르지 않고 희미하게 떨리며, 색면은 약간의 평칠뿐이고, 살짝 번진 색, 빠진 잉크, 판 어긋남이 있으며 종이에는 색연필, 크레용, 마른 과슈의 입자와 섬유가 남습니다. 색은 바랜 주황, 빛바랜 파랑, 올리브 초록, 따뜻한 미색, 먹색, 부드러운 빨강입니다. 부호는 아주 작고 가운데, 비켜난 자리, 화면 끝에 일부 잘린 자리에 놓일 수 있으며, 넓은 여백이 약간의 외로움과 친밀함을 남기고, 조금 삐뚤게 놓인 작은 글자가 수집 번호처럼 붙습니다.",
+    "traits": [
+      "민간 토템",
+      "떨리는 윤곽",
+      "옛 인쇄",
+      "바랜 색",
+      "작은 부호"
+    ],
+    "good": [
+      "오래되거나 그리운 느낌의 주인공: 목마, 낡은 자전거, 양철 주전자",
+      "비례를 과장할 수 있는 동물이나 사람: 다리 긴 왜가리, 통통한 아이, 짐을 진 당나귀",
+      "레트로 포장, 옛 책 느낌의 라벨, 개인 소장품 부호로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "깔끔하고 정확한 선이 필요한 용도: 기업 로고, 제품 설명도, 기술 도면",
+      "밝은 색, 형광색, 사탕 같은 색을 원하는 경우(색은 바랜 톤입니다)",
+      "완성형 일러스트, 정형화된 마스코트, 캐릭터, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رمز الكتاب المصوّر القديم",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى رمز شعبي صغير من كتاب مصوّر قديم، بخطوط مرتعشة وألوان باهتة.",
+    "look": "تبقى صورتك، ويُبسَّط العنصر إلى شكل صغير مائل قليلاً في نِسبه غير منتظم الحواف، كلعبة من الطفولة أو طوطم شعبي في كتاب مصوّر قديم. الخطوط الخارجية متفاوتة السمك ترتعش قليلاً، والتلوين بقع مسطحة قليلة، مع نزيف لوني خفيف وتقطّع في الحبر وانزياح في التسجيل، وعلى الورق حبيبات وألياف الأقلام الملوّنة وأقلام الشمع والغواش الجاف. الألوان برتقالي باهت وأزرق مغسول وأخضر زيتوني وأبيض دافئ وأسود حبري وأحمر ناعم. الرمز صغير جداً، قد يقع في الوسط أو منحرفاً أو مقصوصاً جزئياً عند الحافة، ويترك الفراغ الواسع إحساساً بالوحدة والألفة، مع كلمات صغيرة مصفوفة بشيء من عدم الانتظام كرقم في مجموعة.",
+    "traits": [
+      "طوطم شعبي",
+      "خط مرتعش",
+      "طباعة قديمة",
+      "ألوان باهتة",
+      "رمز صغير"
+    ],
+    "good": [
+      "عناصر فيها قِدم أو حنين: حصان هزّاز، دراجة قديمة، إبريق صفيح",
+      "حيوانات أو أشخاص يمكن المبالغة في نسبهم: مالك حزين طويل الساقين، طفل ممتلئ، حمار يحمل متاعاً",
+      "صور تريدها تغليفاً رجعياً أو بطاقة بطابع الكتب القديمة أو رمزاً لمجموعة خاصة"
+    ],
+    "poor": [
+      "استخدامات تحتاج خطوطاً نظيفة دقيقة: شعارات الشركات، رسوم المنتجات التوضيحية، الرسوم التقنية",
+      "الرغبة في ألوان زاهية أو فسفورية أو ألوان الحلوى، فاللوحة هنا باهتة",
+      "طلب رسم كامل أو تميمة نمطية أو شخصية كرتونية أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}

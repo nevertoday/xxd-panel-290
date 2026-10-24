@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 290"
-  short_description: "旧绘本符：上半保留原照，下半把主体收成旧绘本里的民间符号"
-  default_prompt: "Use $xxd-panel-290 to transform my photograph following the complete canonical source brief."
+  short_description: "旧绘本符：把照片主体收成旧绘本里一枚抖动轮廓、褪色平涂的民间小符号"
+  default_prompt: "Use $xxd-panel-290 to turn my photo into Old Picture-book Sign artwork."

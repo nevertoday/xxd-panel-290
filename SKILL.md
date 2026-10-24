@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-290
-description: "Create XXD Panel 290 raster artwork: a faithful photograph paired with one small faux-naive folk totem, uneven hand line, faded flat color and analog print grain. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-290 or asks for this 旧绘本符 style."
+description: "XXD Panel 290｜Old Picture-book Sign: keeps the photo and turns its subject into one small faux-naive folk sign from an old picture book — simplified, slightly lopsided forms with exaggerated proportions and irregular edges, drawn in uneven, trembling hand-drawn outlines with only a few flat fills, slight colour bleed, ink drop-out and print misregistration on fibrous paper — in a warm retro palette of faded orange, washed blue, olive green, warm off-white, ink black and soft red from the photo, small, centred, offset or partly cropped in extreme whitespace with a lonely, intimate mood, with a tiny irregularly set word like a collection number. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-290 or asks for a faux-naive folk icon, retro picture-book sign or wobbly-outline handmade logo from a photo."
 ---
 
 # XXD Panel 290
